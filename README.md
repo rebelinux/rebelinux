@@ -47,16 +47,16 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 </a>
 
 <a href="https://github.com/rebelinux/AsBuiltReport.Microsoft.AD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rebelinux&repo=AsBuiltReport.Microsoft.AD&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rebelinux&repo=AsBuiltReport.Microsoft.AD&theme=radical" />
 </a>  
 <a href="https://github.com/rebelinux/AsBuiltReport.Veeam.VBR">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rebelinux&repo=AsBuiltReport.Veeam.VBR&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rebelinux&repo=AsBuiltReport.Veeam.VBR&theme=radical" />
 </a>
 <a href="https://github.com/rebelinux/AsBuiltReport.VMware.SRM">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rebelinux&repo=AsBuiltReport.VMware.SRM&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rebelinux&repo=AsBuiltReport.VMware.SRM&theme=radical" />
 </a>
 <a href="https://github.com/rebelinux/AsBuiltReport.NetApp.ONTAP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rebelinux&repo=AsBuiltReport.NetApp.ONTAP&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rebelinux&repo=AsBuiltReport.NetApp.ONTAP&theme=radical" />
 </a>
 
 <!-- links to social media icons -->
