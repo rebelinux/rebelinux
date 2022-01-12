@@ -40,24 +40,25 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/rebelinux/rebelinux">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebelinux&theme=github_dark&langs_count3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebelinux&theme=tokyonight&langs_count=3" />
 </a>
 <a href="https://github.com/rebelinux/rebelinux">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rebelinux&show_icons=true&line_height=27&count_private=true&theme=github_dark" alt="Jon's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rebelinux&show_icons=true&line_height=27&count_private=true&theme=tokyonight" alt="Jon's GitHub Stats" />
 </a>
 
-<a href="https://github.com/rebelinux/AsBuiltReport.Microsoft.AD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rebelinux&repo=AsBuiltReport.Microsoft.AD&theme=github_dark" />
-</a>  
+<a href="https://github.com/rebelinux/AsBuiltReport.NetApp.ONTAP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rebelinux&repo=AsBuiltReport.NetApp.ONTAP&theme=tokyonight" />
+</a>
 <a href="https://github.com/rebelinux/AsBuiltReport.Veeam.VBR">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rebelinux&repo=AsBuiltReport.Veeam.VBR&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rebelinux&repo=AsBuiltReport.Veeam.VBR&theme=tokyonight" />
 </a>
 <a href="https://github.com/rebelinux/AsBuiltReport.VMware.SRM">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rebelinux&repo=AsBuiltReport.VMware.SRM&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rebelinux&repo=AsBuiltReport.VMware.SRM&theme=tokyonight" />
 </a>
-<a href="https://github.com/rebelinux/AsBuiltReport.NetApp.ONTAP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rebelinux&repo=AsBuiltReport.NetApp.ONTAP&theme=github_dark" />
-</a>
+<a href="https://github.com/rebelinux/AsBuiltReport.Microsoft.AD">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rebelinux&repo=AsBuiltReport.Microsoft.AD&theme=tokyonight" />
+</a> 
+
 
 <!-- links to social media icons -->
 
