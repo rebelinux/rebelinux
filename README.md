@@ -1,17 +1,18 @@
 
 # Hi I'm Jon 👋 🇵🇷
+
 [![Linkedin Badge](https://img.shields.io/badge/-jcolonfzenpr-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jcolonfzenpr/)](https://www.linkedin.com/in/jcolonfzenpr/)
       [![Twitter Badge](https://img.shields.io/badge/-@jcolonfzenpr-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jcolonfzenpr)](https://twitter.com/jcolonfzenpr)
       [![Gmail Badge](https://img.shields.io/badge/-jcolonfzenpr-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:jcolonf@zenprsolutions.com)
 
 My name is Jonthan Colón and I'm a IT Consultant. I'm from Puerto Rico, living in Cayey and currently working at Zen Pr Solutions.
 
-
 ## &#x270d; Blog & Writing
 
 Apart from coding, I also maintain a blog - you can find my articles on my website at [technomyth.zenprsolutions.net](https://technomyth.zenprsolutions.net/).
 
-## 🔧 Technologies & Tools
+## &#x1F527; Technologies & Tools
+
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Editor-Vscode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Powershell-informational?style=flat&logo=powershell&logoColor=white&color=blue)
@@ -24,7 +25,8 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ---
 
-### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 23px> My Latest Blog posts:
+### &#128421;&#65039; My Latest Blog posts
+
 <!-- BLOG-POST-LIST:START -->
 - [PowerShell – VMware PowerCLI get Datastore Information](https://technomyth.zenprsolutions.net/2021/12/18/powershell-vmware-powercli-get-datastore-information/)
 - [HomeLab – VMware SRM Documentation with AsBuiltReport](https://technomyth.zenprsolutions.net/2021/11/25/vmware-srm-documentation-asbuiltreport/)
@@ -57,8 +59,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 </a>
 <a href="https://github.com/rebelinux/AsBuiltReport.Microsoft.AD">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rebelinux&repo=AsBuiltReport.Microsoft.AD&theme=tokyonight" />
-</a> 
-
+</a>
 
 <!-- links to social media icons -->
 
@@ -72,7 +73,6 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
 
 <!-- links to your social media accounts -->
 
