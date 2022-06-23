@@ -83,4 +83,4 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ---
 if you like what i do, maybe consider buying me a coffee 🥺👉👈
 
-<a href="https://buymeacoffee.com/technomyth" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="280" height="60" ></a>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F8DEV80)
