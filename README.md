@@ -9,7 +9,7 @@ My name is Jonthan Colón and I'm a IT Consultant. I'm from Puerto Rico, living 
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [technomyth.zenprsolutions.net](https://technomyth.zenprsolutions.net/).
+Apart from coding, I also maintain a blog - you can find my articles on my website at [https://techmyth.github.io/](https://techmyth.github.io/).
 
 ## &#x1F527; Technologies & Tools
 
