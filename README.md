@@ -28,14 +28,14 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ### &#128421;&#65039; My Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [PowerShell – VMware PowerCLI get Datastore Information](https://technomyth.zenprsolutions.net/2021/12/18/powershell-vmware-powercli-get-datastore-information/)
-- [HomeLab – VMware SRM Documentation with AsBuiltReport](https://technomyth.zenprsolutions.net/2021/11/25/vmware-srm-documentation-asbuiltreport/)
-- [PowerShell – VMware PowerCLI initial vCenter Connection](https://technomyth.zenprsolutions.net/2021/11/10/vmware-powercli-vcenter-connection/)
-- [Veeam – Powershell get Backup Repository Information](https://technomyth.zenprsolutions.net/2021/08/15/veeam-powershell-get-backup-repository-information/)
-- [NetApp Ontap Mediator Installation and Configuration](https://technomyth.zenprsolutions.net/2021/07/11/netapp-ontap-mediator-installation-and-setup/)
+- [PowerShell – VMware PowerCLI get Datastore Information]()
+- [HomeLab – VMware SRM Documentation with AsBuiltReport](https://techmyth.github.io/posts/vmware-srm-doc-asbuiltreport/)
+- [PowerShell – VMware PowerCLI initial vCenter Connection](https://techmyth.github.io/posts/vmware-powercli-vcenter-connection/)
+- [Veeam – Powershell get Backup Repository Information](https://techmyth.github.io/posts/veeam-pwsh-get-bkp-proxies-info/)
+- [NetApp Ontap Mediator Installation and Configuration](https://techmyth.github.io/posts/ontap-mediator-install-and-setup/)
 <!-- BLOG-POST-LIST:END -->
 
-▶ [... view more](https://technomyth.zenprsolutions.net/)
+▶ [... view more](https://techmyth.github.io/)
 
 ---
 
