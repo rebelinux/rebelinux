@@ -28,7 +28,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ### &#128421;&#65039; My Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [PowerShell – VMware PowerCLI get Datastore Information]()
+- [PowerShell – VMware PowerCLI get Datastore Information](https://techmyth.github.io/posts/pwsh-vmware-powercli-get-datastore-info/)
 - [HomeLab – VMware SRM Documentation with AsBuiltReport](https://techmyth.github.io/posts/vmware-srm-doc-asbuiltreport/)
 - [PowerShell – VMware PowerCLI initial vCenter Connection](https://techmyth.github.io/posts/vmware-powercli-vcenter-connection/)
 - [Veeam – Powershell get Backup Repository Information](https://techmyth.github.io/posts/veeam-pwsh-get-bkp-proxies-info/)
