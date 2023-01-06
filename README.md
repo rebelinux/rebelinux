@@ -9,7 +9,7 @@ My name is Jonthan Colón and I'm a IT Consultant. I'm from Puerto Rico, living 
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [https://techmyth.github.io/](https://techmyth.github.io/).
+Apart from coding, I also maintain a blog - you can find my articles on my website at [https://techmyth.info/](https://techmyth.info).
 
 ## &#x1F527; Technologies & Tools
 
@@ -28,14 +28,14 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ### &#128421;&#65039; My Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [PowerShell – VMware PowerCLI get Datastore Information](https://techmyth.github.io/posts/pwsh-vmware-powercli-get-datastore-info/)
-- [HomeLab – VMware SRM Documentation with AsBuiltReport](https://techmyth.github.io/posts/vmware-srm-doc-asbuiltreport/)
-- [PowerShell – VMware PowerCLI initial vCenter Connection](https://techmyth.github.io/posts/vmware-powercli-vcenter-connection/)
-- [Veeam – Powershell get Backup Repository Information](https://techmyth.github.io/posts/veeam-pwsh-get-bkp-proxies-info/)
-- [NetApp Ontap Mediator Installation and Configuration](https://techmyth.github.io/posts/ontap-mediator-install-and-setup/)
+- [PowerShell – VMware PowerCLI get Datastore Information](https://techmyth.info/posts/pwsh-vmware-powercli-get-datastore-info/)
+- [HomeLab – VMware SRM Documentation with AsBuiltReport](https://techmyth.info/posts/vmware-srm-doc-asbuiltreport/)
+- [PowerShell – VMware PowerCLI initial vCenter Connection](https://techmyth.info/posts/vmware-powercli-vcenter-connection/)
+- [Veeam – Powershell get Backup Repository Information](https://techmyth.info/posts/veeam-pwsh-get-bkp-proxies-info/)
+- [NetApp Ontap Mediator Installation and Configuration](https://techmyth.info/posts/ontap-mediator-install-and-setup/)
 <!-- BLOG-POST-LIST:END -->
 
-▶ [... view more](https://techmyth.github.io/)
+▶ [... view more](https://techmyth.info/)
 
 ---
 
