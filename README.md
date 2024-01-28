@@ -28,14 +28,14 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ### &#128421;&#65039; My Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [PowerShell – VMware PowerCLI get Datastore Information](https://techmyth.info/posts/pwsh-vmware-powercli-get-datastore-info/)
-- [HomeLab – VMware SRM Documentation with AsBuiltReport](https://techmyth.info/posts/vmware-srm-doc-asbuiltreport/)
-- [PowerShell – VMware PowerCLI initial vCenter Connection](https://techmyth.info/posts/vmware-powercli-vcenter-connection/)
-- [Veeam – Powershell get Backup Repository Information](https://techmyth.info/posts/veeam-pwsh-get-bkp-proxies-info/)
-- [NetApp Ontap Mediator Installation and Configuration](https://techmyth.info/posts/ontap-mediator-install-and-setup/)
+- [PowerShell – VMware PowerCLI get Datastore Information](https://techmyth.blog/posts/pwsh-vmware-powercli-get-datastore-info/)
+- [HomeLab – VMware SRM Documentation with AsBuiltReport](https://techmyth.blog/posts/vmware-srm-doc-asbuiltreport/)
+- [PowerShell – VMware PowerCLI initial vCenter Connection](https://techmyth.blog/posts/vmware-powercli-vcenter-connection/)
+- [Veeam – Powershell get Backup Repository Information](https://techmyth.blog/posts/veeam-pwsh-get-bkp-proxies-info/)
+- [NetApp Ontap Mediator Installation and Configuration](https://techmyth.blog/posts/ontap-mediator-install-and-setup/)
 <!-- BLOG-POST-LIST:END -->
 
-▶ [... view more](https://techmyth.info/)
+▶ [... view more](https://techmyth.blog/)
 
 ---
 
@@ -77,7 +77,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <!-- links to your social media accounts -->
 
 [1]: https://twitter.com/jcolonfzenpr
-[2]: https://github.com/rebeloinux
+[2]: https://github.com/rebelinux
 [3]: https://www.linkedin.com/in/jcolonfzenpr
 
 ---
